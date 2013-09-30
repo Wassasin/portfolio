@@ -10,7 +10,7 @@ I am Wouter Geraedts, a graduate student at the [Radboud University Nijmegen](ht
 
 # Personal
 
-I am an active [climber](http://www.youtube.com/watch?v=0AtMapdKt3g) and swimmer (almost for free thanks to the [USC](http://www.ru.nl/sportcentrum/)). I also love to read (fantasy) books, and am a fan of Robin Hobb's and Robert Jordan's work. My [list](http://myanimelist.net/animelist/Wassasin) of watched anime-series is extensive. Finally, I am a member of the student sect [#RU](http://hashru.nl). But nothing beats my primary hobby: developing software.
+I am an active [climber](http://www.youtube.com/watch?v=0AtMapdKt3g) and swimmer (almost for free thanks to the [USC](http://www.ru.nl/sportcentrum/)). I also love to read (fantasy) books, and am a fan of Robin Hobb's and Robert Jordan's work. My [list](http://myanimelist.net/animelist/Wassasin) of watched anime-series is extensive. Sometimes I can be found [livestreaming](http://twitch.tv/Wassasin) a game. Finally, I am a member of the student sect [#RU](http://hashru.nl). But nothing beats my primary hobby: developing software.
 
 # Work
 
