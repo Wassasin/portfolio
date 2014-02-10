@@ -8,7 +8,8 @@ description: ""
 Here I list some of the projects I've contributed to; especially the projects I am proud of.
 
 # Papers
-* Bachelor's thesis: Time-based Modeling and Verification of Flow Systems in UPPAAL.
+* 2013: [Time-based Modeling and Verification of Flow Systems in UPPAAL](http://woutergeraedts.nl/assets/report-public%2020-12-2013.pdf) (Bachelor's thesis).
+* 2010: [Evolutie van Multiple Inheritance in Python](http://woutergeraedts.nl/assets/aubel2010evolutie.pdf).
 
 # Current projects
 * Ruuster, an aggregator of schedules for multiple universities.
