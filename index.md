@@ -7,7 +7,7 @@ description: "Describing the student named Wouter Geraedts"
 
 <div style="margin: 20px; float: right; text-align: center; width: 300px">
 	<img alt="Wouter Geraedts" src="assets/ik.png">
-	(Photo by Duncan de Fey.)
+	(Photo by Duncan de Fey)
 </div>
 
 I am Wouter Geraedts, a graduate student at the [Radboud University Nijmegen](http://www.ru.nl/), in The Netherlands. I am currently working to get my master's degree in the [Mathematical Foundations of Computing Science (MFoCS)](http://www.ru.nl/masters/programme/science/mathematics/specialisations/foundations/). Professionally I have worked on several websites and mailing systems. Currently I am working on several concepts involving (web)scrapers.
