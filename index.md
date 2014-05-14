@@ -20,6 +20,7 @@ I am an active [climber](http://www.youtube.com/watch?v=0AtMapdKt3g) and swimmer
 
 As a full-time student, I am currently not looking for new work. In the past I've held the following positions:
 
+* 2014 Studentassistant for the course Complexity at the Radboud University
 * 2010-2013 Studentmember of the education committee at the Radboud University
 * 2010, 2011, 2013 Studentassistant for the course Processen at the Radboud University
 * 2010, 2011 Studentassistant for the course Processoren at the Radboud University

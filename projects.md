@@ -8,10 +8,12 @@ description: ""
 Here I list some of the projects I've contributed to; especially the projects I am proud of.
 
 # Papers
+* 2014: [A type system for Continuation Calculus](https://www.pps.univ-paris-diderot.fr/types2014/abstract-37.pdf).
 * 2013: [Time-based Modeling and Verification of Flow Systems in UPPAAL](http://woutergeraedts.nl/assets/report-public%2020-12-2013.pdf) (Bachelor's thesis).
 * 2010: [Evolutie van Multiple Inheritance in Python](http://woutergeraedts.nl/assets/aubel2010evolutie.pdf).
 
 # Current projects
+* VanHElsing, Automated Theorem Prover entry for CASC 2014.
 * Ruuster, an aggregator of schedules for multiple universities.
 * SuperMarx, an aggregator of supermarket products.
 
