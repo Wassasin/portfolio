@@ -13,11 +13,11 @@ Here I list some of the projects I've contributed to; especially the projects I 
 * 2010: [Evolutie van Multiple Inheritance in Python](http://woutergeraedts.nl/assets/aubel2010evolutie.pdf).
 
 # Current projects
-* VanHElsing, Automated Theorem Prover entry for CASC 2014.
-* Ruuster, an aggregator of schedules for multiple universities.
+* VanHElsing (4th place in FOF division) and Satallax‑MaLeS (1st place in THF division), Automated Theorem Provers entered for [CASC-J7 2014](http://www.cs.miami.edu/~tptp/CASC/).
 * SuperMarx, an aggregator of supermarket products.
 
 # Past projects
+* Ruuster, an aggregator of schedules for multiple universities.
 * [`splang`](https://github.com/Wassasin/splang), a compiler for the Simple Programming Language in Haskell (for the Compiler Construction course at the RU).
 * [RUnieuws](http://runieuws.nl/), a scraper of the previously hidden news website of the RU (defunct).
 

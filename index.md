@@ -32,8 +32,12 @@ For a list of my current and past projects, see the [projects](projects.html) pa
 
 From both personal and professional experience, I can give the following list of proficiencies:
 
-* Working proficiency: SVN, Git, Python, Java, JavaScript, LLVM
+* Working proficiency: SVN, Git, Python, Java, JavaScript, LLVM, OCaml, Coq
 * Teaching proficiency: MySQL, HTML, PHP, Haskell, C, C++, C#, LaTeX, UPPAAL, (Web)scraping
+
+# Awards
+
+* I received the [Aia Bachelor Award](http://www.aiasoftware.com/index.php/en/press-releases/braille-in-mathematics-and-the-modeling-of-flow-systems/) for my bachelor's thesis on 'Time-based Modeling and Verification of Flow Systems in Uppaal'.
 
 # PGP key
 I might send you some e-mail with a so-called PGP-block (i.e. BEGIN PGP SIGNED MESSAGE). If you don't understand what this is: ignore it. Otherwise, here is the fingerprint of my PGP key:
