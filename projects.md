@@ -13,7 +13,7 @@ Here I list some of the projects I've contributed to; especially the projects I 
 * 2010: [Evolutie van Multiple Inheritance in Python](http://woutergeraedts.nl/assets/aubel2010evolutie.pdf).
 
 # Current projects
-* VanHElsing (4th place in FOF division) and Satallax‑MaLeS (1st place in THF division), Automated Theorem Provers entered for [CASC-J7 2014](http://www.cs.miami.edu/~tptp/CASC/).
+* [VanHElsing](https://github.com/VanHElsing) (4th place in FOF division) and Satallax‑MaLeS (1st place in THF division), Automated Theorem Provers entered for [CASC-J7 2014](http://www.cs.miami.edu/~tptp/CASC/).
 * SuperMarx, an aggregator of supermarket products.
 
 # Past projects
