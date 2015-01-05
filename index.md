@@ -33,8 +33,8 @@ For a list of my current and past projects, see the [projects](projects.html) pa
 
 From both personal and professional experience, I can give the following list of proficiencies:
 
-* Working proficiency: SVN, Git, Python, Java, JavaScript, LLVM, OCaml, Coq
-* Teaching proficiency: MySQL, HTML, PHP, Haskell, C, C++, C#, LaTeX, UPPAAL, (Web)scraping
+* Working proficiency: SVN, Git, JavaScript, LLVM, OCaml, Coq
+* Teaching proficiency: MySQL, HTML, PHP, Haskell, C, C++, C#, Python, Java, LaTeX, UPPAAL, (Web)scraping
 
 # Awards
 
