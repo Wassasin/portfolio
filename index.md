@@ -10,7 +10,7 @@ description: "Describing the student named Wouter Geraedts"
 	(Photo by Duncan de Fey)
 </div>
 
-I am Wouter Geraedts, a graduate student at the [Radboud University Nijmegen](http://www.ru.nl/), in The Netherlands. I am currently working to get my master's degree in the [Mathematical Foundations of Computing Science (MFoCS)](http://www.ru.nl/masters/programme/science/mathematics/specialisations/foundations/). Professionally I have worked on several websites and mailing systems. Currently I am working on several concepts involving (web)scrapers.
+I am Wouter Geraedts, a graduate student at the [Radboud University Nijmegen](http://www.ru.nl/), in The Netherlands. I am currently working to get my master's degree in the [Mathematical Foundations of Computing Science (MFoCS)](http://www.ru.nl/english/education/masters/computing-foundation/). Professionally I have worked on several websites and mailing systems. Currently I am working on several concepts involving (web)scrapers.
 
 # Personal
 
