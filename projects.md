@@ -16,7 +16,7 @@ Here I list some of the projects I've contributed to; especially the projects I 
 * [VanHElsing](https://github.com/VanHElsing) (4th place in FOF division) and Satallax‑MaLeS (1st place in THF division), Automated Theorem Provers entered for [CASC-J7 2014](http://www.cs.miami.edu/~tptp/CASC/).
 * [SuperMarx](https://github.com/SuperMarx), an aggregator of supermarket products.
 * [islang](https://github.com/Wassasin/islang), or the Inductive Scripting Language, a small functional programming language with C++ as target, written in C++.
-* [roerei](https://github.com/Wassasin/roerei), a tool for Premise Selection on Coq proofs, writtin in OCaml.
+* [roerei](https://github.com/Wassasin/roerei), a tool for Premise Selection on Coq proofs, written in OCaml.
 
 # Past projects
 * Ruuster, an aggregator of schedules for multiple universities.
