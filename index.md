@@ -44,4 +44,4 @@ From both personal and professional experience, I can give the following list of
 # PGP key
 I might send you some e-mail with a so-called PGP-block (i.e. BEGIN PGP SIGNED MESSAGE). If you don't understand what this is: ignore it. Otherwise, here is the fingerprint of my PGP key:
 
-	FA23 575C 5235 BF54 E6B5 C5C8 4145 4BB1 EA68 26AF
+	5EBF F357 594C 3342 A851 39C6 BBE6 E0DD C37D 82AD
