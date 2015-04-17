@@ -10,11 +10,11 @@ description: "Describing the student named Wouter Geraedts"
 	(Photo by Duncan de Fey)
 </div>
 
-I am Wouter Geraedts, a graduate student at the [Radboud University Nijmegen](http://www.ru.nl/), in The Netherlands. I am currently working to get my master's degree in the [Mathematical Foundations of Computing Science (MFoCS)](http://www.ru.nl/english/education/masters/computing-foundation/). Professionally I have worked on several websites and mailing systems. Currently I am working on several concepts involving (web)scrapers.
+I am Wouter Geraedts, a graduate student at the [Radboud University Nijmegen](http://www.ru.nl/), in The Netherlands. I am currently working to get my master's degree in the [Mathematical Foundations of Computing Science (MFoCS)](http://www.ru.nl/english/education/masters/computing-foundation/). Professionally I have worked on several websites and mailing systems. Currently I am working on several concepts involving (web)scrapers for my company [Sarif](http://sarif.nl).
 
 # Personal
 
-I am an active [climber](http://www.youtube.com/watch?v=0AtMapdKt3g) and swimmer (almost for free thanks to the [USC](http://www.ru.nl/sportcentrum/)). I also love to read (fantasy) books, and am a fan of Robin Hobb's and Robert Jordan's work. My [list](http://myanimelist.net/animelist/Wassasin) of watched anime-series is extensive. Sometimes I can be found [livestreaming](http://twitch.tv/Wassasin) a game. Finally, I am a member of the student sect [#RU](http://hashru.nl). But nothing beats my primary hobby: developing software.
+I am an active [climber](http://www.youtube.com/watch?v=0AtMapdKt3g) and swimmer (almost for free thanks to the [USC](http://www.ru.nl/sportcentrum/)). I also love to read (fantasy) books, and am a fan of Robin Hobb's and Robert Jordan's work. My [list](http://myanimelist.net/animelist/Wassasin) of watched anime-series is extensive. Sometimes I can be found [livestreaming](http://twitch.tv/Wassasin) a game. Finally, I am a member and secretary of the student sect [#RU](http://hashru.nl). But nothing beats my primary hobby: developing software.
 
 # Work
 
@@ -34,7 +34,7 @@ For a list of my current and past projects, see the [projects](projects.html) pa
 
 From both personal and professional experience, I can give the following list of proficiencies:
 
-* Working proficiency: SVN, Git, JavaScript, LLVM, OCaml, Coq
+* Working proficiency: PostgreSQL, SVN, Git, JavaScript, LLVM, OCaml, Coq
 * Teaching proficiency: MySQL, HTML, PHP, Haskell, C, C++, C#, Python, Java, LaTeX, UPPAAL, (Web)scraping
 
 # Awards

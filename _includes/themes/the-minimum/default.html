@@ -9,8 +9,12 @@
 	<title>{{ site.author.name }} - {{ page.title }}</title>
 	<meta name="author" content="{{ site.author.name }}">
 	<link href='{{ ASSET_PATH }}/css/style.css' rel="stylesheet" media="all">
-	<link href="http://feeds.feedburner.com/{{ site.author.feedbaname }}" rel="alternate" title="{{ page.title }}" type="application/atom+xml">
-	<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.0.6/modernizr.min.js"></script>
+	<link href="https://feeds.feedburner.com/{{ site.author.feedbaname }}" rel="alternate" title="{{ page.title }}" type="application/atom+xml">
+	<script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+	<script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.0.6/modernizr.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>                                                                                    
+	<script src="https://code.highcharts.com/highcharts.js"></script>
 </head>
 <body>
 
@@ -22,8 +26,9 @@
 				<nav class="nav-global">
 					<ul>
 						<li><a href="/index.html">about me</a></li>
-						<li><a href="/projects.html">projects</a></li>
-						<li><a href="/news.html">in the news</a></li>
+						<li><a href="/projects">projects</a></li>
+						<li><a href="/news">in the news</a></li>
+						<li><a href="/blog">blog</a></li>
 					</ul>
 				</nav>
 			</div><!-- unit-inner -->
